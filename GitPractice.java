@@ -13,7 +13,9 @@ public class GitPractice {
 	
 	System.out.println("Re-Edit at master local from local");
 	
-	
+	System.out.println("Edit at master local from repositry");
+		System.out.println("Edit at master respostry from master branch");	
+
 	}
 
 }
