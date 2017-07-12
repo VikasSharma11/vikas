@@ -10,7 +10,8 @@ public class GitPractice {
 	System.out.println("Now I am second branch at repositrysecond");
 	System.out.println("Now I am second branch at repositryatThird");
 	System.out.println("Edit at master local");
-	
+	System.out.println("Edit at third branch");
+
 	System.out.println("Re-Edit at master local from local");
 	
 	System.out.println("Edit at master local from repositry");
