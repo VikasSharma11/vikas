@@ -9,6 +9,8 @@ public class GitPractice {
 	System.out.println("Now I am second branch at repositryMaster");
 	System.out.println("Now I am second branch at repositrysecond");
 	System.out.println("Now I am second branch at repositryatThird");
+	System.out.println("Edit at third branch");
+		
 	
 	
 	}
